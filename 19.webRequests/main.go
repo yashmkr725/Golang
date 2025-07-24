@@ -9,7 +9,7 @@ import (
 
 const URL = "https://en.wikipedia.org/wiki/Go_(programming_language)"
 
-// program to get the html of the page 
+// program to get the html of the page or make a request to url 
 
 func main() {
 	fmt.Println("Wikipedia Request")
