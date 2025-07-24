@@ -31,4 +31,5 @@ func main() {
 	default:
 		fmt.Println("Illegal")
 	}
+	// Switch case Done !
 }
